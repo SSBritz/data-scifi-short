@@ -1,3 +1,7 @@
+###############################################
+### RECOMMENDER SYSTEMS EXERCISES
+###############################################
+
 library(dplyr)
 library(tidyr)
 library(NNLM)
